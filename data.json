@@ -114,28 +114,28 @@
     {
         "id": 17,
         "title": "Salami",
-        "price": 21.90,
+        "price": "0.00",
         "image": "https://fotokulinarnie.pl/wp-content/uploads/2021/02/IMG_4407-792x528.jpg",
         "ingredients": ["ser", "salami", "cebula", "oliwki"]
     },
     {
         "id": 18,
         "title": "Toscana",
-        "price": 21.90,
+        "price": "0",
         "image": "https://www.skorzewo.pracowniapizzy.pl/wp-content/uploads/2017/01/7.-TOSCANA_MG_2800s-min.jpg",
         "ingredients": ["ser", "szynka szwarcwaldzka", "salami", "suszone pomidory", "mozzarella", "rukola"]
     },
     {
         "id": 19,
         "title": "Quatro Formaggi",
-        "price": 21.90,
+        "price": 0.00,
         "image": "https://www.insidetherustickitchen.com/wp-content/uploads/2020/07/Quattro-Formaggi-1200px-Inside-the-Rustic-Kitchen-2.jpg",
         "ingredients": ["mozzarella", "ser typu feta", "blue", "camembert"]
     },
     {
         "id": 20,
         "title": "Italiano",
-        "price": 20.90,
+        "price": 0,
         "image": "https://pliki.doradcasmaku.pl/pizza-italiana0-4.webp",
         "ingredients": ["mozzarella", "pomidor", "oliwki", "bazylia"]
     }
