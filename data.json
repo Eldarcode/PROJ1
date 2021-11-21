@@ -95,14 +95,13 @@
         "title": "Ampelio",
         "price": 21.90,
         "image": "https://lirp.cdn-website.com/ad6eb8b3/dms3rep/multi/opt/Pizzeria-Sant-Ampelio-003-640w.jpg",
-        "ingredients": ["ser", "szynka", "salami", "pieczarki"]
+        "ingredients": []
     },
     {
         "id": 15,
         "title": "Hawaii",
         "price": 20.90,
-        "image": "https://www.unileverfoodsolutions.pl/dam/global-ufs/mcos/NEE/calcmenu/recipes/PL-recipes/general/pizza-hawaii/main-header.jpg/jcr:content/renditions/cq5dam.thumbnail.desktop.jpeg",
-        "ingredients": ["ser", "szynka", "ananas"]
+        "image": "https://www.unileverfoodsolutions.pl/dam/global-ufs/mcos/NEE/calcmenu/recipes/PL-recipes/general/pizza-hawaii/main-header.jpg/jcr:content/renditions/cq5dam.thumbnail.desktop.jpeg"
     },
     {
         "id": 16,
