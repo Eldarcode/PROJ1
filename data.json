@@ -137,5 +137,19 @@
         "price": 0,
         "image": "https://pliki.doradcasmaku.pl/pizza-italiana0-4.webp",
         "ingredients": ["mozzarella", "pomidor", "oliwki", "bazylia"]
+    },
+    {
+        "id": 99,
+        "title": "Vega",
+        "price": 21.90,
+        "image": "https://vegabialobrzegi.pl/wp-content/uploads/2020/06/15-pizza-vega-300x225.jpg",
+        "ingredients": ["ser", "pieczarki", "kukurydza", "cebula", "oliwki", "papryka", "brokuł", "pomidor"]
+    },
+    {
+        "id": 99,
+        "title": "Vega",
+        "price": 21.90,
+        "image": "https://vegabialobrzegi.pl/wp-content/uploads/2020/06/15-pizza-vega-300x225.jpg",
+        "ingredients": ["ser", "pieczarki", "kukurydza", "cebula", "oliwki", "papryka", "brokuł", "pomidor"]
     }
 ]
