@@ -140,14 +140,14 @@
     },
     {
         "id": 99,
-        "title": "Vega",
+        "title": "Vega99",
         "price": 21.90,
         "image": "https://vegabialobrzegi.pl/wp-content/uploads/2020/06/15-pizza-vega-300x225.jpg",
         "ingredients": ["ser", "pieczarki", "kukurydza", "cebula", "oliwki", "papryka", "brokuł", "pomidor"]
     },
     {
         "id": 99,
-        "title": "Vega",
+        "title": "Vega101",
         "price": 21.90,
         "image": "https://vegabialobrzegi.pl/wp-content/uploads/2020/06/15-pizza-vega-300x225.jpg",
         "ingredients": ["ser", "pieczarki", "kukurydza", "cebula", "oliwki", "papryka", "brokuł", "pomidor"]
